@@ -45,9 +45,9 @@ require (
 	github.com/x448/float16 v0.8.4 // indirect
 	go.opentelemetry.io/otel v1.28.0 // indirect
 	go.opentelemetry.io/otel/trace v1.28.0 // indirect
-	golang.org/x/net v0.56.0 // indirect
+	golang.org/x/net v0.57.0 // indirect
 	golang.org/x/oauth2 v0.27.0 // indirect
-	golang.org/x/sys v0.46.0 // indirect
+	golang.org/x/sys v0.47.0 // indirect
 	golang.org/x/term v0.44.0 // indirect
 	golang.org/x/text v0.38.0 // indirect
 	golang.org/x/time v0.7.0 // indirect
@@ -65,7 +65,7 @@ replace golang.org/x/net => golang.org/x/net v0.56.0
 
 replace golang.org/x/sys => golang.org/x/sys v0.44.0
 
-replace golang.org/x/text => golang.org/x/text v0.39.0
+replace golang.org/x/text => golang.org/x/text v0.41.0
 
 replace golang.org/x/oauth2 => golang.org/x/oauth2 v0.27.0
 
