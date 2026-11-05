@@ -61,6 +61,8 @@ require (
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
 
+replace github.com/klauspost/compress => github.com/klauspost/compress v1.18.7
+
 replace golang.org/x/net => golang.org/x/net v0.60.0
 
 replace golang.org/x/sys => golang.org/x/sys v0.44.0
