@@ -66,7 +66,3 @@ replace golang.org/x/net => golang.org/x/net v0.60.0
 replace golang.org/x/sys => golang.org/x/sys v0.44.0
 
 replace golang.org/x/text => golang.org/x/text v0.41.0
-
-replace golang.org/x/oauth2 => golang.org/x/oauth2 v0.27.0
-
-replace golang.org/x/term => golang.org/x/term v0.30.0
